@@ -15,3 +15,8 @@
 <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-2/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2)</a>    [<a href="https://github.com/thetai221/ImplicitIntent">code</a>]</li>
 <li><a href="https://ngocminhtran.com/2018/11/05/doi-tuong-intent-trong-android-phan-3/">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a>    [<a href="https://github.com/thetai221/SendBroadcast">code</a>]</li>
 <li><a href="https://ngocminhtran.com/2018/11/14/lap-trinh-co-so-du-lieu-trong-android-phan-1/">Lập trình cơ sở dữ liệu trong Android</a>   [<a href="https://github.com/thetai221/SQLiteDemoApplication">code</a>]</li>
+
+
+
+
+<img src="https://drive.google.com/file/d/1ihLWYTPfZ-wGFdbXVJfAqZdMFc4h-qLn/view?usp=sharing">
