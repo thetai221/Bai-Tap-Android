@@ -5,7 +5,7 @@
 <li><a href="https://dzone.com/articles/introduction-to-android-programming-using-the-andr">Introduction to Android Programming in Android Studio 3.0</a></li>
 <li><a href="https://ngocminhtran.com/2018/08/12/thiet-ke-giao-dien-nguoi-dung-voi-cong-cu-thiet-ke-android-studio-3-x/">Thiết kế giao diện người dùng với công cụ thiết kế Android Studio 3.X</a>    [<a href="https://github.com/thetai221/MyApplication">code</a>]</li>
 <li><a href="https://ngocminhtran.com/2018/09/24/cac-views-co-ban-va-trong-giao-dien-ung-dung-android/">Các views cơ bản trong giao diện ứng dụng Android</a></li>
-<li><a href="https://ngocminhtran.com/2018/09/24/thiet-lap-va-nhan-thong-tin-tu-cac-views/">Thiết lập và nhận thông tin từ các Android views</a>    <a href="https://github.com/thetai221/Thietlap"></a></li>
+<li><a href="https://ngocminhtran.com/2018/09/24/thiet-lap-va-nhan-thong-tin-tu-cac-views/">Thiết lập và nhận thông tin từ các Android views</a>    [<a href="https://github.com/thetai221/Thietlap">code</a>]</li>
 <li><a href="https://ngocminhtran.com/2018/09/24/su-kien-va-xu-ly-su-kien/">Sự kiện và xử lý sự kiện trong Android</a>    [<a href="https://github.com/thetai221/BasicView">code</a>]</li>
 <li><a href="https://ngocminhtran.com/2018/10/06/su-kien-va-xu-ly-su-kien-touch-cham-va-multi-touch-da-cham-trong-android/">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong Android</a>    [<a href="https://github.com/thetai221/MotionEvent">code</a>]</li>
 <li><a href="https://ngocminhtran.com/2018/10/08/phat-hien-cu-chi-nguoi-dung-voi-lop-android-gesture-detector/">Phát hiện cử chỉ người dùng với lớp Android Gesture Detector</a>    [<a href="https://github.com/thetai221/CommonGestures">code</a>]</li>
