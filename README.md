@@ -14,4 +14,4 @@
 <li><a href="https://github.com/thetai221/ExplicitIntent">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1)</a></li>
 <li><a href="https://github.com/thetai221/ImplicitIntent">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2)</a></li>
 <li><a href="https://github.com/thetai221/SendBroadcast">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 3)</a></li>
-<li><a href="https://github.com/thetai221/SQLiteDemoApplication">Lập trình cơ sở dữ liệu trong Android</a></li> <a href="">code</a>
+<li><a href="https://github.com/thetai221/SQLiteDemoApplication">Lập trình cơ sở dữ liệu trong Android</a>  [<a href="">code</a>]</li>
