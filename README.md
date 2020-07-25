@@ -19,4 +19,4 @@
 
 
 
-<img src="https://github.com/thetai221/img/blob/master/chu-ky-tai.jpeg">
+<img src="https://github.com/thetai221/img/blob/master/Untitled-1.png">
