@@ -19,4 +19,4 @@
 
 
 
-<img src="https://github.com/thetai221/Bai-Tap-Android/blob/master/kk.png?raw=true">
+<img src="">
